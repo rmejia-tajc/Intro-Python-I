@@ -61,7 +61,7 @@ print(waypoints)
 # YOUR CODE HERE
 
 for i in waypoints:
-    for p, v in i.items():
+    for k, v in i.items():
         print(v)
 
 # for i in waypoints:
